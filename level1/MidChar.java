@@ -1,5 +1,3 @@
-package programmers.level1;
-
 public class MidChar {
     public static void main(String[] args) {
         String s = "abcdefg";
