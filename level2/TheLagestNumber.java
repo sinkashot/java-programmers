@@ -1,9 +1,7 @@
-package programmers.level2;
-
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class biggerNumber {
+public class TheLagestNumber {
     public static void main(String[] args) {
         // int[] numbers = {10, 2, 6};
         // int[] numbers = {0, 0, 0};
